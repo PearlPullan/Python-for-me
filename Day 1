@@ -1,2 +1,4 @@
-A method in Python behaves similarly to a function. Methods actually are functions that are called using dot notation. Methods are specific to the data type for a particular variable.
+A method in Python behaves similarly to a function. Methods actually are functions that are called using dot notation.
+Methods are specific to the data type for a particular variable.
+
 https://docs.python.org/2.5/lib/string-methods.html
